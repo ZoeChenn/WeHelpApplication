@@ -36,8 +36,16 @@ a {
   color: #fff;
 }
 
+a:hover {
+  color: orange;
+}
+
 .container {
   text-align: center;
+}
+
+.container p {
+  text-align: left;
 }
 
 .QA {
