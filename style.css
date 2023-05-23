@@ -62,3 +62,21 @@ a:hover {
 .border-b-2 {
   border-bottom: 2px solid #fff;
 }
+
+#myBtn {
+  width: 75px;
+  height: 75px;
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  border-radius: 50px;
+  background-color: #fff;
+  border: none;
+  outline: none;
+  opacity: 1;
+  cursor: pointer;
+}
+#myBtn:hover {
+  background-color: #555;
+}
